@@ -104,3 +104,7 @@ print Dumper $foo . ' ' . $bar;
 [1]: https://twitter.com/wccalvin "Reference link to my twitter profile"
 
 ---
+
+### Images
+
+![Humble Abode](http://placekitten.com/g/200/300)
