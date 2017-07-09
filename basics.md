@@ -107,4 +107,10 @@ print Dumper $foo . ' ' . $bar;
 
 ### Images
 
-![Humble Abode](http://placekitten.com/g/200/300)
+![Kittens](https://placekitten.com/250/400)
+
+[![Kittens](https://placekitten.com/220/450 "Curious kitten")](https://placekitten.com/)
+
+![Kittens](https://placekitten.com/200/350 "Kitten duo")
+
+---
